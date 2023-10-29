@@ -1,0 +1,4 @@
+UNA:+.? 'UNB+UNOC:3+5790002108419:14+4023149000003:14+230824:1047+117601121'UNH+1+ORDERS:D:96A:UN:EAN008'BGM+220+00454999+9'DTM+137:20230824:102'DTM+2:20231004:102'FTX+ZZZ+++Please send order confirmation within 3 working days. Please refer to :our Purchase Order number on your delivery note and invoice. Openening: for goods reception?: Monday - Thursday at 7.00 to 14.30 Friday at 7.0:0 to 11.00'NAD+BY+5790000273423::9++Hansen, Pedersen IVS+Vester Lærkeallé 4+Aavig++5557+DK'CTA+PD+Purchase:Maria Christensen'COM+?65 72 00 93:TE'NAD+IV+5790000273423::9++Hansen, Pedersen IVS+Vester Lærkeallé 4+Aavig++5557+DK'NAD+DP+1-56::91++Rasmussen-Nielsen+Hansen, Pedersen IVS
+Industrivej 4
+Sorri:ng
++Kertering++8688+dk'NAD+SU+4023149000003::14'CUX+2:EUR:9'LIN+1'PIA+5+20001188:IN+921854801:SA'IMD+F++:::Save Sliding door bracket 1,5 m'QTY+21:160.00:EA'DTM+2:20231004:102'UNS+S'CNT+1:160.00'CNT+2:1'UNT+21+1'UNZ+1+117601121'

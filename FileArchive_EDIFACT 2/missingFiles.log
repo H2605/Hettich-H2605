@@ -1,0 +1,40 @@
+"E:\FileArchive\2023-06-27\Bauhaus DE\inbound\ORDERS\EXT_C_97037345-target-message.txt" not present.
+"E:\FileArchive\2023-06-24\Bauhaus DE\inbound\ORDERS\EXT_C_96909024-target-message.txt" not present.
+"E:\FileArchive\2023-06-25\Bauhaus DE\inbound\ORDERS\EXT_C_96918904-target-message.txt" not present.
+"E:\FileArchive\2023-06-23\Bauhaus DE\inbound\ORDERS\EXT_C_96893832-target-message.txt" not present.
+"E:\FileArchive\2023-06-23\Tyco\inbound\ORDERS\EXT_96854363-target-message.txt" not present.
+"E:\FileArchive\2023-06-13\Bauhaus DE\inbound\ORDERS\EXT_C_96245374-target-message.txt" not present.
+"E:\FileArchive\2023-06-12\Bauhaus DE\inbound\ORDERS\EXT_C_96186385-target-message.txt" not present.
+"E:\FileArchive\2023-06-28\Bauhaus DE\inbound\ORDERS\EXT_C_97101025-target-message.txt" not present.
+"E:\FileArchive\2023-06-23\Tyco\inbound\ORDERS\EXT_96849896-target-message.txt" not present.
+"E:\FileArchive\2023-06-12\Bauhaus CZ\inbound\ORDERS\EXT_C_96186383-target-message.txt" not present.
+"E:\FileArchive\2023-06-26\Bauhaus CZ\inbound\ORDERS\EXT_C_96975774-target-message.txt" not present.
+"E:\FileArchive\2023-06-14\Bauhaus DE\inbound\ORDERS\EXT_C_96304585-target-message.txt" not present.
+"E:\FileArchive\2023-06-20\Bauhaus CZ\inbound\ORDERS\EXT_C_96622114-target-message.txt" not present.
+"E:\FileArchive\2023-06-15\Bauhaus CZ\inbound\ORDERS\EXT_C_96372666-target-message.txt" not present.
+"E:\FileArchive\2023-06-19\Loddenkemper\inbound\ORDERS\EXT_96506129-target-message.txt" not present.
+"E:\FileArchive\2023-06-26\Bauhaus DE\inbound\ORDERS\EXT_C_96975775-target-message.txt" not present.
+"E:\FileArchive\2023-06-22\Bauhaus DE\inbound\ORDERS\EXT_C_96821704-target-message.txt" not present.
+"E:\FileArchive\2023-06-19\Bauhaus DE\inbound\ORDERS\EXT_C_96547949-target-message.txt" not present.
+"E:\FileArchive\2023-06-23\Tyco\inbound\ORDERS\EXT_96849897-target-message.txt" not present.
+"E:\FileArchive\2023-06-26\Brico Maxeda\inbound\ORDERS\EXT_96949749-target-message.txt" not present.
+"E:\FileArchive\2023-06-28\Bauhaus CZ\inbound\ORDERS\EXT_C_97101024-target-message.txt" not present.
+"E:\FileArchive\2023-06-22\MAJA WERK\inbound\ORDERS\EXT_96771524-target-message.txt" not present.
+"E:\FileArchive\2023-06-20\PVH Building\inbound\ORDERS\EXT_C_96582888-target-message.txt" not present.
+"E:\FileArchive\2023-06-20\PVH Building\inbound\ORDERS\EXT_C_96582886-target-message.txt" not present.
+"E:\FileArchive\2023-06-20\PVH Building\inbound\ORDERS\EXT_C_96582887-target-message.txt" not present.
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - Error from JDBC implementation :  |QueryExecutor| INSERT INTO [HET_HSBI_PROJECT].[dbo].[HashMapData] SELECT CONVERT(varBINARY(32), [TranslateTable].[HashStr], 2) as [Hash] ,[TranslateTable].[HashStr] ,[TranslateTable].[Val] FROM  (VALUES  ('55C0F273B65FB61CEC73A076209960C8C993144C597F6C89E4A35B58091F3A4D',N'Leona Büker') ) AS TranslateTable(HashStr, Val)  : Violation of PRIMARY KEY constraint 'PK_Table_1'. Cannot insert duplicate key in object 'dbo.HashMapData'. The duplicate key value is (0x55c0f273b65fb61cec73a076209960c8c993144c597f6c89e4a35b58091f3a4d).
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - OK
+Inserted translated field data into DB - Error from JDBC implementation :  |QueryExecutor| INSERT INTO [HET_HSBI_PROJECT].[dbo].[HashMapData] SELECT CONVERT(varBINARY(32), [TranslateTable].[HashStr], 2) as [Hash] ,[TranslateTable].[HashStr] ,[TranslateTable].[Val] FROM  (VALUES  ('55C0F273B65FB61CEC73A076209960C8C993144C597F6C89E4A35B58091F3A4D',N'Freiherrin Linnea Holzdeppe') ) AS TranslateTable(HashStr, Val)  : Violation of PRIMARY KEY constraint 'PK_Table_1'. Cannot insert duplicate key in object 'dbo.HashMapData'. The duplicate key value is (0x55c0f273b65fb61cec73a076209960c8c993144c597f6c89e4a35b58091f3a4d).
+Inserted translated field data into DB - Error from JDBC implementation :  |QueryExecutor| INSERT INTO [HET_HSBI_PROJECT].[dbo].[HashMapData] SELECT CONVERT(varBINARY(32), [TranslateTable].[HashStr], 2) as [Hash] ,[TranslateTable].[HashStr] ,[TranslateTable].[Val] FROM  (VALUES  ('6A4121EA3D7677E603ECB2071CC3AC8B1D4C5FF1C1DA329DF62E33488D61F6CA',N'Hr. Laura Stolle') ) AS TranslateTable(HashStr, Val)  : Violation of PRIMARY KEY constraint 'PK_Table_1'. Cannot insert duplicate key in object 'dbo.HashMapData'. The duplicate key value is (0x6a4121ea3d7677e603ecb2071cc3ac8b1d4c5ff1c1da329df62e33488d61f6ca).
+Inserted translated field data into DB - OK
