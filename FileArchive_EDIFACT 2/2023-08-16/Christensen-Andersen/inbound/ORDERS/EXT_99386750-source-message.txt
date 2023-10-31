@@ -1,7 +1,0 @@
-UNA:+.? 'UNB+UNOC:3+5790002108419:14+4023149000003:14+230816:1314+116867752'UNH+1+ORDERS:D:96A:UN:EAN008'BGM+220+00454712+9'DTM+137:20230816:102'DTM+2:20230926:102'FTX+ZZZ+++Please send order confirmation within 3 working days. Please refer to :our Purchase Order number on your delivery note and invoice. Openening: for goods reception?: Monday - Thursday at 7.00 to 14.30 Friday at 7.0:0 to 11.00'NAD+BY+5790000273423::9++Hansen, Pedersen IVS+Vester Lærkeallé 4+Aavig++5557+DK'CTA+PD+Purchase:Dr. Anne Hansen'COM+?91 28 16 09:TE'NAD+IV+5790000273423::9++Hansen, Pedersen IVS+Vester Lærkeallé 4+Aavig++5557+DK'NAD+DP+1-56::91++Rasmussen-Nielsen+Hansen, Pedersen IVS
-Industrivej 4
-Sorri:ng
-+Kertering++8688+dk'NAD+SU+4023149000003::14'CUX+2:EUR:9'LIN+1'PIA+5+75313c449:IN+923812701:SA'IMD+F++:::Hardware cll. 4/4
-White'QTY+21:210.00:EA'DTM+2:20230926:102'MOA+203:4307.71'FTX+AAY++1+no-certificate:No Certificates apply for this product'PRI+AAA:20.5129::TU'PRI+AAB:20.5129::TU'LIN+2'PIA+5+75314c460:IN+928935101:SA'IMD+F++:::Hardware cll. 4/4
-Black'QTY+21:70.00:EA'DTM+2:20230926:102'FTX+AAY++1+no-certificate:No Certificates apply for this product'LIN+3'PIA+5+75558c349:IN+930478800:SA'IMD+F++:::Firenze Handles ?+ hardware cll. 3
-W:hite'QTY+21:840.00:EA'DTM+2:20230926:102'MOA+203:16711.46'PRI+AAA:19.8946::TU'PRI+AAB:19.8946::TU'UNS+S'CNT+1:1120.00'CNT+2:3'UNT+39+1'UNZ+1+116867752'
